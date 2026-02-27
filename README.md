@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My directions:
+- App/Web design and developer
+- Backend/Fronted Developer
+
+My stack:
+
+
 <!--
 **VANT00Z/VANT00Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
