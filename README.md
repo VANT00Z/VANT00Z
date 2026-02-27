@@ -1,11 +1,17 @@
 ## Hi there 👋
 
-My directions:
+<b>My directions:</b>
 - App/Web design and developer
 - Backend/Fronted Developer
 
-My stack:
-
+<b>My stack:</b>
+- Python3.9+ (junior+/middle)
+- Django API
+- Flask API
+- PyQt
+- Java
+- Css3
+- HTML5
 
 <!--
 **VANT00Z/VANT00Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
