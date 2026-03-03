@@ -11,4 +11,3 @@ I'm solo web/app, fronted/backend developer.
 - HTML5
 
 <b>Dream about join in bigtech company</b>
-<b>Now working at some web projects</b>
