@@ -10,4 +10,4 @@ I'm solo web/app, fronted/backend developer.
 - Css3
 - HTML5
 
-<b>Dream about join in bigtech company</b>
+**Dream about join in bigtech company**
