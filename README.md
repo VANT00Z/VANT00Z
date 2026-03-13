@@ -2,7 +2,7 @@
 I'm solo web/app, fronted/backend developer.
 
 **My stack:**
-- Python3.9+ (junior+/middle)
+- Python (junior+/middle)
 - Django API
 - Flask API
 - PyQt
