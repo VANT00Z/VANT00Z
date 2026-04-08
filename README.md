@@ -2,10 +2,10 @@
 I'm solo web/app, fronted/backend developer.
 
 **My stack:**
-- Python (junior+/middle)
+- Python (junior/junior+)
 - Django API
 - Flask API
-- PyQt
+- C ++
 - JavaScript
 - Css3
 - HTML5
