@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm solo web/app, fronted/backend developer.
+I'm web/app, fronted/backend developer.
 
 **My stack:**
 - Python 
